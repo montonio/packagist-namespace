@@ -1,0 +1,7 @@
+{
+    "name": "montonio/packagist-namespace",
+    "description": "This package serves to register the packagist.org montonio vendor name",
+    "authors": [ ],
+    "require": {},
+    "license": "BSD-3-Clause"
+}
